@@ -37,4 +37,10 @@ The Dataset includes the following key columns:
 
  - PowerBI -Creating Report (Employed For creating interactive dashboards and visualizations.
 
-   ### Data Cleaning / Preparation
+### Data Cleaning / Preparation
+In the initial Data Preparation Phase,we performed the following tasks;
+1. Data Loading and Inspection.
+
+2. Handling Missing Values.
+
+3. Data Cleaning and Formatting.
