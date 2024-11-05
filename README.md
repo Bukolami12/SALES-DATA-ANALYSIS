@@ -15,7 +15,7 @@
  - [Limitations](#limitations)
 
 ###  Project Overview
-This Project delves into the sales performqance of a retail store,uncovering key trends ad insights to inform business decisions.Through interactive visualizations and Data-Driven storytelling,we will explore:
+This Project delves into the sales performance of a retail store,uncovering key trends and insights to inform business decisions.Through interactive visualizations and Data-Driven storytelling,we will explore:
 - Top Selling products and categories.
 - Regional Sales Performance and market trends.
 - Monthly Sales fluctuations and seasonal patterns.
@@ -38,7 +38,7 @@ The Dataset includes the following key columns:
 
 6. Quantity: Number of units sold.
 
-7. Unit Price:Price of a single unit of thr product.
+7. Unit Price:Price of a single unit of the product.
 
 8. Total Sales: Total amount paid for the order.
 
@@ -63,7 +63,7 @@ In the initial Data Preparation Phase,we performed the following tasks;
    - What is the overall sales trend?
    - Which Products are top sellers?
    - What is the regional performance of each region?
-   - What the Monthl sales trend ?
+   - What the Monthly sales trend ?
 
 ###  Data Analysis 
  Include some interesting code  worked with
@@ -135,7 +135,7 @@ Select Product,
 
  3. The South Region has the highest percentage of sales while other regions follows.
 
- 4. The highest sales monthwas February with 25% of Total Sales .
+ 4. The highest sales month was February with 25% of Total Sales .
 
 ### Findings 
 1. Decline in Sales: Sales dropped across all regions and product categories.
